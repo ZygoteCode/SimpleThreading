@@ -1,0 +1,4 @@
+C:\Users\bolog\Desktop\SimpleThreading\bin\x64\Release\SimpleThreading.dll
+C:\Users\bolog\Desktop\SimpleThreading\obj\x64\Release\SimpleThreading.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\SimpleThreading\obj\x64\Release\SimpleThreading.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\SimpleThreading\obj\x64\Release\SimpleThreading.dll
