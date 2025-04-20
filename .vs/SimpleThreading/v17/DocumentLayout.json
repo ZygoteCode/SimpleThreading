@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bolog\\Desktop\\SimpleThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51179318-A0CA-442C-927E-69EA80254E1A}|SimpleThreading.csproj|c:\\users\\bolog\\desktop\\simplethreading\\resourceutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51179318-A0CA-442C-927E-69EA80254E1A}|SimpleThreading.csproj|solutionrelative:resourceutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceUtils.cs",
+              "DocumentMoniker": "C:\\Users\\bolog\\Desktop\\SimpleThreading\\ResourceUtils.cs",
+              "RelativeDocumentMoniker": "ResourceUtils.cs",
+              "ToolTip": "C:\\Users\\bolog\\Desktop\\SimpleThreading\\ResourceUtils.cs",
+              "RelativeToolTip": "ResourceUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:45:02.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
