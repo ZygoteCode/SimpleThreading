@@ -56,6 +56,8 @@
     <Compile Include="Semaphores\ResourceSimpleSemaphore.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Semaphores\ResourceSuperSemaphore.cs" />
+    <Compile Include="ThreadSafeCounter.cs" />
+    <Compile Include="ThreadSafeQueue.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
